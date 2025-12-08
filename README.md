@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hai, saya Fajar 👋
 
-<!--
-**fpbismyname/fpbismyname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer | Laravel & React | Web3 Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tentang Saya
+- Backend: Laravel, MySQL, API
+- Frontend: React, Next.js, TailwindCSS
+- Web3: Integrasi smart contract, dApp frontend
+- Pernah bikin: LMS-like app, NFT marketplace mini, CRUD apps
+
+---
+
+## Project Highlight
+- [NFT Marketplace](https://github.com/fpbismyname/nft-marketplace) – dApp sederhana untuk NFT trading
+- [LMS Like App](https://github.com/fpbismyname/lms-app) – Platform belajar online
+- [Landing Page Templates](https://github.com/fpbismyname/landing-pages) – Beberapa template landing page responsive
+
+---
+
+## Hubungi Saya
+- Portfolio: [fajardev.com](https://fajardev.com)  
+- LinkedIn: [linkedin.com/in/fajardev](https://linkedin.com/in/fajardev)  
+- Email: fajardev@example.com  
+
+---
+
+## Statistik GitHub
+![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpbismyname&show_icons=true&theme=radical)
