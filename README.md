@@ -1,30 +1,30 @@
-# Hai, saya Fajar 👋
+# Hi 👋, I'm Fajar Perdiansyah Budiman
 
-Web Developer | Laravel & React | Web3 Enthusiast
+### A passionate developer from around the world 🌎
 
----
-
-## Tentang Saya
-- Backend: Laravel, MySQL, API
-- Frontend: React, Next.js, TailwindCSS
-- Web3: Integrasi smart contract, dApp frontend
-- Pernah bikin: LMS-like app, NFT marketplace mini, CRUD apps
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fpbismyname&label=Profile+views&color=0e75b6&style=flat" alt="fpbismyname" />
+</p>
 
 ---
 
-## Project Highlight
-- [NFT Marketplace](https://github.com/fpbismyname/nft-marketplace) – dApp sederhana untuk NFT trading
-- [LMS Like App](https://github.com/fpbismyname/lms-app) – Platform belajar online
-- [Landing Page Templates](https://github.com/fpbismyname/landing-pages) – Beberapa template landing page responsive
+## 📫 How to reach me
+- Email: **fajarpebefajar12@gmail.com**
+
+## ⚡ Fun fact
+- I’m the “redflag” programmer, because I always use **Laravel** in every case ☠️
 
 ---
 
-## Hubungi Saya
-- Portfolio: [fajardev.com](https://fajardev.com)  
-- LinkedIn: [linkedin.com/in/fajardev](https://linkedin.com/in/fajardev)  
-- Email: fajardev@example.com  
-
----
-
-## Statistik GitHub
-![Fajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpbismyname&show_icons=true&theme=radical)
+## 🔗 Connect with me
+<p align="left">
+  <a href="https://github.com/fpbismyname" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/fpb999" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/fpb999" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+</p>
