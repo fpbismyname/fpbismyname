@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=fpbismyname&label=Profile+views&color=0e75b6&style=flat" alt="fpbismyname" />
 </p>
 
----
 
 ## 📫 How to reach me
 - Email: **fajarpebefajar12@gmail.com**
@@ -14,7 +13,6 @@
 ## ⚡ Fun fact
 - I’m the “redflag” programmer, because I always use **Laravel** in every case ☠️
 
----
 
 ## 🔗 Connect with me
 <p align="left">
