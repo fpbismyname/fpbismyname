@@ -14,8 +14,8 @@ Web developer focused on building fast, content-driven websites for businesses.
 </div>
 <br>
 
-- Astro js (Used for creating landing page based on content data driven)
-- Laravel (Used for creating apps)
+- **Astro** — content-driven landing pages, static & SSR sites, performance-focused
+- **Laravel** — backend web applications, CRUD, authentication, REST APIs
 
 ## 📫 Contact
 <ul>
