@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fajar Perdiansyah Budiman
 
-### A passionate developer from around the world 🌎
+### A passionate web developer 🌎
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fpbismyname&label=Profile+views&color=0e75b6&style=flat" alt="fpbismyname" />
@@ -8,7 +8,7 @@
 
 
 ## 📫 How to reach me
-- Email: **fajarpebefajar12@gmail.com**
+<button>My Contact</button>
 
 ## ⚡ Fun fact
 - I’m the “redflag” programmer, because I always use **Laravel** in every case ☠️
