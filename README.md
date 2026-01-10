@@ -1,11 +1,28 @@
-### Hi 👋, I'm Fajar Perdiansyah Budiman
-A passionate web developer 🌎
-###
+## Hi 👋, I'm Fajar PB
+Web developer focused on building fast, content-driven websites for businesses.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fpbismyname&label=Profile+views&color=0e75b6&style=flat" alt="fpbismyname" />
-</p>
+## 🛠️ Technical Skills.
+<br>
+<div>
+  <a>
+    <img src="https://cdn.simpleicons.org/astro" width="32" height="32"/>
+  </a>
+  <span>‎ ‎</span>
+  <a>
+    <img src="https://cdn.simpleicons.org/laravel" width="32" height="32"/>
+  </a>
+</div>
+<br>
 
+- Astro js (Used for creating landing page based on content data driven)
+- Laravel (Used for creating apps)
 
-## 📫 How to reach me
-<a href="https://fajarpb.vercel.app">My Contact <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link-icon lucide-external-link"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg></a>
+## 📫 Contact
+<ul>
+  <li>
+    <a href="https://wa.me/6281234567890">Whatsapp</a>
+  </li>
+  <li>
+    <a href="https://instagram/fpbdotdev09">Instagram</a>
+  </li>
+</ul>
