@@ -8,7 +8,7 @@
 
 
 ## 📫 How to reach me
-<button>My Contact</button>
+<a href="https://fajarpb.vercel.app">My Contact</a>
 
 ## ⚡ Fun fact
 - I’m the “redflag” programmer, because I always use **Laravel** in every case ☠️
