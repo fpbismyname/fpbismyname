@@ -5,10 +5,6 @@ Web developer focused on building fast, Seo Friendly websites for businesses.
 <br>
 <div>
   <a>
-    <img src="https://cdn.simpleicons.org/astro" width="32" height="32"/>
-  </a>
-  <span>‎ ‎</span>
-  <a>
     <img src="https://cdn.simpleicons.org/laravel" width="32" height="32"/>
   </a>
 </div>
