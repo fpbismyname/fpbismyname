@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Fajar PB
-Web developer focused on building fast, content-driven websites for businesses.
+Web developer focused on building fast, Seo Friendly websites for businesses.
 
 ## 🛠️ Technical Skills.
 <br>
@@ -14,15 +14,14 @@ Web developer focused on building fast, content-driven websites for businesses.
 </div>
 <br>
 
-- **Astro** — content-driven landing pages, static & SSR sites, performance-focused
 - **Laravel** — backend web applications, CRUD, authentication, REST APIs
 
 ## 📫 Contact
 <ul>
   <li>
-    <a href="https://wa.me/6281234567890">Whatsapp</a>
+    <a href="https://wa.me/6285624332682">Whatsapp</a>
   </li>
   <li>
-    <a href="https://instagram/fpbdotdev09">Instagram</a>
+    <a href="https://instagram/fpb99_">Instagram</a>
   </li>
 </ul>
